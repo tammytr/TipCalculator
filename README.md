@@ -7,4 +7,4 @@ A tip calculator that calculates the bill in various ways, including the total c
 
 
 ## Screenshots
-<img src="/Screenshots/screenshot1.jpg"/> <img src="/Screenshots/screenshot2.jpg"/> <img src="/Screenshots/screenshot3.jpg"/> 
+<img src="/Screenshots/screenshot1.jpg" height="400px"/> <img src="/Screenshots/screenshot2.jpg" height="400px"/> <img src="/Screenshots/screenshot3.jpg" height="400px"/> 
